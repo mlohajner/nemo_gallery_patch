@@ -108,24 +108,6 @@ In other words, standard Nemo can be told to display a large thumbnail, but the 
 
 Instead of relying on the assumptions used for smaller thumbnails, the layout follows the configured thumbnail size.
 
-That means:
-
-```text
-thumbnail-size = 256
-        ↓
-normal-sized Icon View
-
-
-thumbnail-size = 512
-        ↓
-large thumbnail view
-
-
-thumbnail-size = 1024
-        ↓
-gallery-style view
-```
-
 The view remains consistent as the thumbnail size increases.
 
 ---
