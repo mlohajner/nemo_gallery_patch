@@ -16,10 +16,10 @@ Just make the existing thumbnail size actually work.
 
 ## Gallery View...
 
-Nemo already has the pieces of puzzle, we just make a proper gallery out of those.  
-It can show thumbnails.  
-It can arrange them in a grid.  
-It already has a thumbnail-size setting.  
+Nemo already has the pieces of puzzle, we just make a proper gallery out of it:
+- It can show thumbnails.  
+- It can arrange them in a grid.  
+- It already has a thumbnail-size setting.  
 
 The missing piece was making the layout properly follow large thumbnail sizes.
 
@@ -52,7 +52,8 @@ From the root of the Nemo source tree:
 patch -p1 < nemo-thumbnail-gallery.patch
 ```
 
-Then build Nemo normally.
+Then build Nemo normally...  
+OR (For Fedora users) use the prebuilt+striped binary
 
 ---
 
