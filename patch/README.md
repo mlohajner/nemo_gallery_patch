@@ -58,6 +58,7 @@ Then build Nemo normally.
 
 Same Nemo.  
 Same Icon View.  
-**Now with gallery capability**  
-Gallery View, you say?
-Yes, thank you very much!  
+Now with gallery capability
+
+Gallery View, you say?  
+...yes, thank you very much!
