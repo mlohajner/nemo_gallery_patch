@@ -26,17 +26,17 @@ This patch does not introduce a new view mode.
 
 It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gallery View** when large thumbnails are requested.
 
-### Nemo "Gallery View"
+### "Gallery patched" Nemo:
 
 ![Nemo Gallery View patched](screenshots/gallery%20patch1.png)
 ![Nemo Gallery View patched](screenshots/gallery%20patch2.png)
 
-### Nemo: tries to use larger thumbnails
+### "Vanilla" Nemo tries to use large thumbnails:
 
 ![Nemo Icon View vanilla](screenshots/no-patch1.png)
 ![Nemo Icon View vanilla](screenshots/no-patch2.png)
 
-### Default size, normal operation
+### Default size, normal operation (both versions)
 
 ![Nemo Icon View vanilla](screenshots/default%20icon-view.png)
 
