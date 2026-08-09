@@ -6,10 +6,9 @@
 **Minimal diff. Maximum effect.**
 
 This patch makes Nemo's existing **Icon View** behave like a proper **Gallery View** when using large thumbnails.
-
-No new view mode.
-No new configuration.
-No complicated changes to Nemo.
+- No new view mode.
+- No new configuration.
+- No complicated changes to Nemo.
 
 Just make the existing thumbnail size actually work.
 
@@ -17,27 +16,21 @@ Just make the existing thumbnail size actually work.
 
 ## Gallery View...
 
-Nemo already has the pieces of puzzle, we just make a proper gallery out of those.
-
-It can show thumbnails.
-It can arrange them in a grid.
-It already has a thumbnail-size setting.
+Nemo already has the pieces of puzzle, we just make a proper gallery out of those.  
+It can show thumbnails.  
+It can arrange them in a grid.  
+It already has a thumbnail-size setting.  
 
 The missing piece was making the layout properly follow large thumbnail sizes.
-
-This patch fixes that.
-
-So instead of:
 
 ## Minimal diff
 
 Only **two Nemo source files are changed**.
 
-That's it.
-
-No new subsystem.
-No new view implementation.
-No giant refactor.
+That's it:
+- No new subsystem.
+- No new view implementation.
+- No giant refactor.
 
 A very small change to the existing Icon View code is enough to turn large-thumbnail Icon View into a usable gallery.
 
