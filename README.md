@@ -48,7 +48,7 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
                          │
                          ▼
              ┌─────────────────────┐
-             │  Thumbnail Geometry  │
+             │ Thumbnail Geometry  │
              └──────────┬──────────┘
                         │
                         ▼
