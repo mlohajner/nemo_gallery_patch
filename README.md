@@ -28,8 +28,7 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
 
 ### "Gallery patched" Nemo:
 
-![Nemo Gallery View patched](screenshots/gallery%20patch1.png)
-![Nemo Gallery View patched](screenshots/gallery%20patch2.png)
+|![Nemo Gallery View patched](screenshots/gallery%20patch1.png)|![Nemo Gallery View patched](screenshots/gallery%20patch2.png)|
 
 ### "Vanilla" Nemo tries to use large thumbnails:
 
