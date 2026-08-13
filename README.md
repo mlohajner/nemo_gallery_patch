@@ -1,8 +1,4 @@
-# Nemo Gallery Patch
-
-## Turn Nemo's Icon View into a Gallery View
-
-Nemo already has everything needed for a great gallery-style file browser.
+# Nemo Gallery Patch = turn Nemo's Icon View into a Gallery View
 
 ## Icon View → Gallery View
 
@@ -29,6 +25,7 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
 
 
 ## The idea
+Nemo already has everything needed for a great gallery-style file browser.  
 The only setting you need to care about is:
 
 ```text
