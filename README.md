@@ -1,9 +1,6 @@
-# Nemo Gallery Patch = turn Nemo's Icon View into a Gallery View
+# Nemo Gallery Patch: Icon View → Gallery View
 
-## Icon View → Gallery View
-
-This patch does not introduce a new view mode.
-
+This patch does not introduce a new view mode.  
 It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gallery View** when large thumbnails are requested.
 
 ### "Gallery patched" Nemo:
