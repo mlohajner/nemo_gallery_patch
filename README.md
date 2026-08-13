@@ -28,13 +28,13 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
 
 ### "Gallery patched" Nemo:
 
-<img src="screenshots/gallery%20patch1.png" width="40%">
+<img src="screenshots/gallery%20patch1.png" width="40%" align="left">
 <img src="screenshots/gallery%20patch2.png" width="40%">
 
 ### "Vanilla" Nemo tries to use large thumbnails:
 
-![Nemo Icon View vanilla](screenshots/no-patch1.png)
-![Nemo Icon View vanilla](screenshots/no-patch2.png)
+<img src="screenshots/no-patch1.png" width="40%">
+<img src="screenshots/no-patch2.png" width="40%">
 
 ### Default size, normal operation (both versions)
 
