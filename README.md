@@ -4,22 +4,6 @@
 
 Nemo already has everything needed for a great gallery-style file browser.
 
-The only setting you need to care about is:
-
-```text
-/org/nemo/icon-view/thumbnail-size
-```
-
-**Set it to whatever size you need.**
-
-256 px. 512 px. 768 px. 1024 px. 2048 px.
-
-With `nemo_gallery_patch`, the configured thumbnail size becomes the **source of truth** for the Icon View layout.
-
-The larger the thumbnail, the larger the gallery.
-
----
-
 ## Icon View → Gallery View
 
 This patch does not introduce a new view mode.
@@ -45,7 +29,21 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
 
 
 ## The idea
+The only setting you need to care about is:
 
+```text
+/org/nemo/icon-view/thumbnail-size
+```
+
+**Set it to whatever size you need.**
+
+256 px. 512 px. 768 px. 1024 px. 2048 px.
+
+With `nemo_gallery_patch`, the configured thumbnail size becomes the **source of truth** for the Icon View layout.
+
+The larger the thumbnail, the larger the gallery.
+
+---
 ```text
                  thumbnail-size
                         │
