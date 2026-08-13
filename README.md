@@ -31,14 +31,17 @@ It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gal
 <img src="screenshots/gallery%20patch1.png" width="40%" align="left">
 <img src="screenshots/gallery%20patch2.png" width="40%">
 
+### Mixed content:
+<img src="screenshots/mixed%20content.png" width="40%">
+
 ### "Vanilla" Nemo tries to use large thumbnails:
 
-<img src="screenshots/no-patch1.png" width="40%">
+<img src="screenshots/no-patch1.png" width="40%" align="left">
 <img src="screenshots/no-patch2.png" width="40%">
 
 ### Default size, normal operation (both versions)
 
-![Nemo Icon View vanilla](screenshots/default%20icon-view.png)
+<img src="screenshots/default%20icon-view.png" width="50%">
 
 
 ## The idea
