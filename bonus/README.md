@@ -1,6 +1,6 @@
 # Nemo desktop `Next slide`
 
-A tiny bonus that goes along with `nemo_gallery_patch`: if you're browsing large wallpaper thumbnails in Gallery View, it's a short step to wanting a fast way to advance your desktop slideshow too.
+A tiny bonus that goes along with `nemo_gallery_patch`: if you're browsing large wallpaper thumbnails in Gallery View, it's a short step to wanting a fast way to advance your desktop/wallpaper slideshow too.
 
 Right-click the desktop → **Next slide** → the current wallpaper is replaced by the next one in Cinnamon's background slideshow.
 
