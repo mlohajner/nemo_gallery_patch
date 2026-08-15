@@ -64,4 +64,3 @@ nemo -q
 * `gdbus` (part of `glib2.0-bin` / `libglib2.0-bin`, already present on any Cinnamon install).
 
 ---
-* This only advances the *background* slideshow — it has nothing to do with the Icon View / Gallery View thumbnails from the main patch. The two live in this repo together purely because if you're staring at large image thumbnails, you're probably also staring at your wallpaper.
