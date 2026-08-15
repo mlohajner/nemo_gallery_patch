@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Next slide
+Comment=Next background slide (Cinnamon slideshow)
+Exec=gdbus call --session --dest org.Cinnamon.Slideshow --object-path /org/Cinnamon/Slideshow --method org.Cinnamon.Slideshow.getNextImage
+Icon-Name=media-seek-forward-symbolic
+Selection=None
+Extensions=any;
+Quiet=true
+Conditions=desktop;
