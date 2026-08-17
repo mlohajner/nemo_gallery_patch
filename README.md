@@ -1,4 +1,4 @@
-<h1> <img src="nemo.png" width="40" valign="middle" alt="Nemo icon"> Nemo Gallery Patch: Icon View → Gallery View </h1>
+<h1> <img src="nemo.png" width="64" valign="middle" alt="Nemo icon"> Nemo Gallery Patch: Icon View → Gallery View </h1>
 
 This patch does not introduce a new view mode.  
 It fixes Nemo's existing **Icon View** so that it can properly behave as a **Gallery View** when large thumbnails are requested.
